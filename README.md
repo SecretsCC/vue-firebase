@@ -1,6 +1,6 @@
 # ninjia-smoothies
 
-> A Vue.js project
+> A Vue.js and firebase project
 
 ## Build Setup
 
