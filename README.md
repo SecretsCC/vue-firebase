@@ -1,6 +1,8 @@
 # ninjia-smoothies
 
 > A Vue.js and firebase project
+First Vue project, trying to learn how to use Vue.js
+It's a web page for showing different formula of smoothies, can add or delete any formula.
 
 ## Build Setup
 
